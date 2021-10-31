@@ -1,3 +1,3 @@
-const baseUrl = "https://social-media-ver1.herokuapp.com"
+const baseUrl = "https://social-media-app-ver1.herokuapp.com"
 
 export default baseUrl;
